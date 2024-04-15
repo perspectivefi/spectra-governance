@@ -1,0 +1,40 @@
+{
+    "DAO": "0xDA0410De00B17a43206AB85269d31f5487901440",
+    "emergencyCouncil": "0xDA0410De00B17a43206AB85269d31f5487901440",
+    "feesVotingRewardsDistributor": "0x0000000000000000000000000000000000000000",
+    "accessManager": "0xF3Ff955DaF5Aef4A72acb8c0219532648C6E2778",
+    "APW": "0xf0f3AFae6Ace93C8c73081AcD14B88dBC44ff87e",
+    "veAPW": "0xa6663b51bd053A6Bc696b4e7D7A29A5C749877B8",
+    "whitelistBribeTokens": [
+        "0x0372cE7418865080D82d0B6677a692a2c045e4D3",
+        "0x6C5235a3FdF46A07EabC0CDDf0234D67D189CD87",
+        "0x875f201f16748CfDE4560f2A32D13E8DdF42C338",
+        "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
+    ],
+    "pools": [
+        {
+            "addr": "0x1496c2772f8F5486ccB2Cdd26F452814E329Bf26",
+            "chainId": 11155111
+        },
+        {
+            "addr": "0x1d2bE066F25C4c243cFd246Cd1Bbe2B38607109e",
+            "chainId": 11155111
+        },
+        {
+            "addr": "0x6aEB86f3c7970662789887208a2C1A7eC1843f95",
+            "chainId": 11155111
+        },
+        {
+            "addr": "0x6e5F3442Ca2bBa13AE0f369495f127399eEB7ef9",
+            "chainId": 11155111
+        },
+        {
+            "addr": "0xAFdDA18C755216B3398cCB5665151364A2B85ea1",
+            "chainId": 11155111
+        },
+        {
+            "addr": "0xAFf95604488a27A05c6E353FF2C15a8717e73E51",
+            "chainId": 11155111
+        }
+    ]
+}

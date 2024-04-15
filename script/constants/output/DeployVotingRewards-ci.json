@@ -1,0 +1,29 @@
+{
+  "APW": "0x4104b135DBC9609Fc1A9490E61369036497660c8",
+  "AccessManager": "0x522B3294E6d06aA25Ad0f1B8891242E335D3B459",
+  "Forwarder": "0x147B09A8C7d5E4A8253a3e01De4356D3c132010D",
+  "GovernanceRegistry": "0x869029e61BEc3996Bd138B2a5E65982172a1a193",
+  "Voter": "0x8b50264507f84Edc75087aeAf63a016E89b7a441",
+  "VotingEscrow": "0xC5ca1EBF6e912E49A6a70Bb0385Ea065061a4F09",
+  "VotingRewardsFactory": "0x062C88B4ba954955746eDA6f475C26eeaC04614B",
+  "poolsVotingRewards": {
+    "15885": {
+      "bribeVotingRewards": "0xe09CC9C5B45F067aBCc0331a4853a6EaAD7d2Be3",
+      "chainId": 42161,
+      "feesVotingRewards": "0x48e7715cCB6bD0706a03A72Ba1b8C991f52Ce277",
+      "pool": "0x0000000000000000000000000000000000009ABc"
+    },
+    "22137": {
+      "bribeVotingRewards": "0x75E88b8c3B40a76290d01135041b41A7F0a1c031",
+      "chainId": 1,
+      "feesVotingRewards": "0x98B32b4415E4d08f234e4964ACd9776A96C4A628",
+      "pool": "0x0000000000000000000000000000000000005678"
+    },
+    "4661": {
+      "bribeVotingRewards": "0xC2916d1D65C4a11f5A20dA5Bd696704ab967f830",
+      "chainId": 1,
+      "feesVotingRewards": "0x51bBbCc971F23EbC2361e474694CA7AbdBd06F66",
+      "pool": "0x0000000000000000000000000000000000001234"
+    }
+  }
+}

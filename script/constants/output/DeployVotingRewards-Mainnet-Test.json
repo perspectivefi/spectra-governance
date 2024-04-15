@@ -1,0 +1,22 @@
+{
+  "poolsVotingRewards": {
+    "15885": {
+      "bribeVotingRewards": "0x369809665685799937348FcbE37d0ABeCDe9A9AC",
+      "chainId": 42161,
+      "feesVotingRewards": "0xAAA7F81eA61590f15E6cA42e0832a4dcc6F54fA7",
+      "pool": "0x0000000000000000000000000000000000009ABc"
+    },
+    "22137": {
+      "bribeVotingRewards": "0x4C372a59263D077A97Fd3A8e0303D216e9a3c7f5",
+      "chainId": 1,
+      "feesVotingRewards": "0x134cd2EC49464907Bb70fB4D77CB563bff3f9A9E",
+      "pool": "0x0000000000000000000000000000000000005678"
+    },
+    "4661": {
+      "bribeVotingRewards": "0xC34D588e1a85C84F4C355516bB2e042BE462158D",
+      "chainId": 1,
+      "feesVotingRewards": "0xaAB6795FA0bA1b7F6aABe5E8088cE9498c909661",
+      "pool": "0x0000000000000000000000000000000000001234"
+    }
+  }
+}

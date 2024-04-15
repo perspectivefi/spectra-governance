@@ -1,0 +1,20 @@
+{
+  "name": "spectra-tokenomics",
+  "version": "2.0.0",
+  "description": "Tokenomics for Spectra protocol",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {
+    "prettier": "^2.6.2",
+    "prettier-plugin-solidity": "^1.0.0-beta.19",
+    "solhint": "^3.3.7",
+    "solhint-plugin-prettier": "^0.0.5"
+  },
+  "scripts": {
+    "format": "prettier --write 'contracts/**/*.(sol|json)' 'test/**/*.(sol|json)' 'script/**/*.(sol|ts)'",
+    "format:check": "prettier --check 'contracts/**/*.*(sol|json)' 'test/**/*.(sol|json)' 'script/**/*.(sol|ts)'",
+    "lint": "solhint --fix 'contracts/**/*.sol' 'test/**/*.sol' 'script/**/*.sol'",
+    "lint:check": "solhint 'contracts/**/*.sol' 'test/**/*.sol' 'script/**/*.sol'"
+  }
+}

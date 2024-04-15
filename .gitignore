@@ -1,0 +1,18 @@
+.env
+
+# Foundry
+cache/
+out/
+broadcast/
+
+# JS
+node_modules/
+package-lock.json
+
+artifacts/
+
+# Coverage
+lcov.info
+
+# System files
+.DS_Store

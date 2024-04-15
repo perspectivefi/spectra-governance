@@ -1,0 +1,16 @@
+[profile.default]
+src = 'contracts'
+out = 'out'
+
+gas_reports = ["Voter", "FeesVotingReward", "BribeVotingReward"]
+
+fs_permissions = [{ access = "read-write", path = "./"}]
+
+[rpc_endpoints]
+sepolia = "${SEPOLIA_RPC_URL}"
+mainnet = "${MAINNET_RPC_URL}"
+
+[etherscan]
+sepolia = { key = "${SEPOLIA_SCAN_API_KEY}", url = "${SEPOLIA_ETHERSCAN_VERIFIER_URL}" }
+mainnet = { key = "${ETHERSCAN_API_KEY}", url = "${ETHERSCAN_VERIFIER_URL}" }
+
